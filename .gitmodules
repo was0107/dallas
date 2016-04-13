@@ -7,3 +7,6 @@
 [submodule "MLogFramework"]
 	path = MLogFramework
 	url = git@github.com:was0107/MLogFramework.git
+[submodule "MDebugFramework"]
+	path = MDebugFramework
+	url = git@github.com:was0107/MDebugFramework.git

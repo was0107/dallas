@@ -28,6 +28,7 @@
 |QQ联系人控件		|MTreeFramework				    | 			|			|     Micker|
 |淘宝SKU控件		|MSKUFramework				    |		    |			|	  Micker|
 |日志输出控件		|MLogFramework				    |		    |			|	  Micker|
+|Debug控件		|MDebugFramework			    |		    |			|	  Micker|
 
 ##三、发布
 * 所有子Framework的，可以根据需求，进行单独编译
