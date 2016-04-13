@@ -1,0 +1,6 @@
+[submodule "MTreeFramework"]
+	path = MTreeFramework
+	url = git@github.com:was0107/treeTableView.git
+[submodule "MSKUFramework"]
+	path = MSKUFramework
+	url = git@github.com:was0107/MSKUFramework.git
