@@ -10,3 +10,9 @@
 [submodule "MDebugFramework"]
 	path = MDebugFramework
 	url = git@github.com:was0107/MDebugFramework.git
+[submodule "MFullScreenFramework"]
+	path = MFullScreenFramework
+	url = git@github.com:was0107/MFullScreenFramework.git
+[submodule "MDetailFramework"]
+	path = MDetailFramework
+	url = git@github.com:was0107/MDetailFramework.git

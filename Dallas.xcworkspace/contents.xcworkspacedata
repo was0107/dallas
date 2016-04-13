@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:MFullScreenFramework/MFullScreenFramework/MFullScreenFramework.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MLogFramework/MLogFramework/MLogFramework.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MDetailFramework/MDetailFramework/MDetailFramework.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MDebugFramework/MDebugFramework/MDebugFramework.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:MSKUFramework/MSKUFramework/MSKUFramework.xcodeproj">
    </FileRef>
    <FileRef
