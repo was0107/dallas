@@ -4,3 +4,6 @@
 [submodule "MSKUFramework"]
 	path = MSKUFramework
 	url = git@github.com:was0107/MSKUFramework.git
+[submodule "MLogFramework"]
+	path = MLogFramework
+	url = git@github.com:was0107/MLogFramework.git
