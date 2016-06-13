@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:MCalendarFramework/MCalendarFramework/MCalendarFramework.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MSectionFramework/MSectionFramework/MSectionFramework.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:MFullScreenFramework/MFullScreenFramework/MFullScreenFramework.xcodeproj">
    </FileRef>
    <FileRef

@@ -16,3 +16,9 @@
 [submodule "MDetailFramework"]
 	path = MDetailFramework
 	url = git@github.com:was0107/MDetailFramework.git
+[submodule "MSectionFramework"]
+	path = MSectionFramework
+	url = git@github.com:was0107/MSectionFramework.git
+[submodule "MCalendarFramework"]
+	path = MCalendarFramework
+	url = git@github.com:was0107/MCalendarFramework.git

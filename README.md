@@ -31,6 +31,8 @@
 |Debug控件		|MDebugFramework			    |		    |			|	  Micker|
 |全屏浏览控件		|MFullScreenFramework		    |		    |			|	  Micker|
 |淘宝商详控件		|MDetailFramework			    |		    |			|	  Micker|
+|Section控件		|MSectionFramework			    |		    |			|	  Micker|
+|日历展示控件		|MCalendarFramework			    |		    |			|	  Micker|
 
 ##三、发布
 * 所有子Framework的，可以根据需求，进行单独编译
